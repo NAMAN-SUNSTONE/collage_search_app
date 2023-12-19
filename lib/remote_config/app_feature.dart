@@ -1,0 +1,1 @@
+enum AppFeature { timetable, subjects }

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "100531486471",
+    "project_id": "sunstone-admin-dev",
+    "storage_bucket": "sunstone-admin-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100531486471:android:a0029709e743baa4a50fa2",
+        "android_client_info": {
+          "package_name": "com.sunstone.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100531486471-0s49ch6iqds3ihd366cr03tq51gmpsn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunstone.admin",
+            "certificate_hash": "d533dd969df8c555c7d0bf7884e2bc9466fc7c33"
+          }
+        },
+        {
+          "client_id": "100531486471-5dp4fd2us30tp5l8i9mjeobghrqrj8c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunstone.admin",
+            "certificate_hash": "992d253298eb4dc473fc31039ae51a2f6a37d4da"
+          }
+        },
+        {
+          "client_id": "100531486471-70g5152q6e8oreh4eodh29db5ggh9koq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunstone.admin",
+            "certificate_hash": "a52493705324b23ddbeba250c9c0ce1dfd1bee53"
+          }
+        },
+        {
+          "client_id": "100531486471-a24lahrsb8jh5tbsk226ig1r5uhs0eor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunstone.admin",
+            "certificate_hash": "7ca020ede696e99bc731a91d56961185fd4291a1"
+          }
+        },
+        {
+          "client_id": "100531486471-ir2je91b46cc6jdnme25el6bd7ep0sba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunstone.admin",
+            "certificate_hash": "553386abc4bdf2d3dea20d064fdc4ccb7a514c71"
+          }
+        },
+        {
+          "client_id": "100531486471-fn78e4nmlid1pthod6bu6cq2qsucl1h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhZPhFoxyKyVJ46XuuhPI7KUyKFtv8N44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100531486471-fn78e4nmlid1pthod6bu6cq2qsucl1h1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100531486471-idchs9k6jk4gbqsoa6j919fb86n5cbob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunstone.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

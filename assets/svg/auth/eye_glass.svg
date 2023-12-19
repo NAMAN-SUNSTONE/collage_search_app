@@ -1,0 +1,12 @@
+<svg width="90" height="87" viewBox="0 0 90 87" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="27.1167" cy="59.8206" r="20" transform="rotate(-28.4802 27.1167 59.8206)" fill="black" fill-opacity="0.1"/>
+    <circle cx="27.1167" cy="59.8206" r="19.5" transform="rotate(-28.4802 27.1167 59.8206)" stroke="black" stroke-opacity="0.4"/>
+    <circle cx="76.3398" cy="33.1168" r="20" transform="rotate(-28.4802 76.3398 33.1168)" fill="black" fill-opacity="0.1"/>
+    <circle cx="76.3398" cy="33.1168" r="19.5" transform="rotate(-28.4802 76.3398 33.1168)" stroke="black" stroke-opacity="0.4"/>
+    <path d="M44.6964 50.2835C44.6964 50.2835 47.7771 46.3369 50.7745 44.7107C53.772 43.0846 58.7601 42.6539 58.7601 42.6539" stroke="black" stroke-opacity="0.4"/>
+    <circle cx="28.1167" cy="53.8206" r="20" transform="rotate(-28.4802 28.1167 53.8206)" fill="white" fill-opacity="0.1"/>
+    <circle cx="28.1167" cy="53.8206" r="19.5" transform="rotate(-28.4802 28.1167 53.8206)" stroke="white" stroke-opacity="0.2"/>
+    <circle cx="77.3398" cy="27.1168" r="20" transform="rotate(-28.4802 77.3398 27.1168)" fill="white" fill-opacity="0.1"/>
+    <circle cx="77.3398" cy="27.1168" r="19.5" transform="rotate(-28.4802 77.3398 27.1168)" stroke="white" stroke-opacity="0.2"/>
+    <path d="M45.6964 44.2835C45.6964 44.2835 48.7771 40.3369 51.7745 38.7107C54.772 37.0846 59.7601 36.6539 59.7601 36.6539" stroke="white" stroke-opacity="0.2"/>
+</svg>

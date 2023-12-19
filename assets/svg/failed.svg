@@ -1,0 +1,28 @@
+<svg width="360" height="450" viewBox="0 0 360 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="paint0_radial_2343_12225" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 225) rotate(91.5622) scale(220.082)">
+<stop stop-color="#FFDA3D"/>
+<stop offset="1" stop-color="white" stop-opacity="0.28"/>
+</radialGradient>
+<radialGradient id="paint1_radial_2343_12225" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 225) rotate(91.5622) scale(162.405)">
+<stop stop-color="#FFDA3D"/>
+<stop offset="1" stop-color="white" stop-opacity="0.28"/>
+</radialGradient>
+<radialGradient id="paint2_radial_2343_12225" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 225) rotate(91.5622) scale(112.318)">
+<stop stop-color="#FFDA3D"/>
+<stop offset="1" stop-color="white" stop-opacity="0.28"/>
+</radialGradient>
+<radialGradient id="paint3_radial_2343_12225" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 225) rotate(91.5622) scale(52.3643)">
+<stop stop-color="#FFDA3D"/>
+<stop offset="1" stop-color="white" stop-opacity="0.28"/>
+</radialGradient>
+</defs>
+    <circle cx="180" cy="225" r="225" fill="url(#paint0_radial_2343_12225)"/>
+    <circle cx="180" cy="225" r="166.034" fill="url(#paint1_radial_2343_12225)"/>
+    <circle cx="180" cy="225" r="114.828" fill="url(#paint2_radial_2343_12225)"/>
+    <circle cx="180" cy="225" r="53.5345" fill="url(#paint3_radial_2343_12225)"/>
+    <rect x="103" y="149" width="155" height="151" rx="75.5" fill="white"/>
+    <path d="M183.135 264.999H182.604C181.627 264.581 180.605 264.93 179.606 264.845C179.141 264.804 178.62 264.639 178.181 264.999H177.474C177.36 264.747 177.124 264.84 176.934 264.811C175.506 264.604 174.062 264.472 172.652 264.183C163.377 262.285 155.575 257.801 149.52 250.516C141.879 241.325 138.806 230.699 140.415 218.863C141.803 208.664 146.509 200.14 154.413 193.538C163.584 185.877 174.209 182.845 186.055 184.392C194.162 185.451 201.311 188.781 207.395 194.248C214.952 201.038 219.354 209.523 220.666 219.608C220.755 220.287 220.656 221.004 220.998 221.645V223.414C220.746 224.122 220.746 224.83 220.998 225.537V227.484C220.783 227.573 220.831 227.77 220.814 227.936C220.633 229.785 220.347 231.616 219.948 233.433C216.409 249.549 202.834 262.157 186.491 264.511C185.372 264.673 184.226 264.666 183.131 265.001L183.135 264.999ZM180.447 235.163C181.774 235.163 183.099 235.147 184.426 235.168C185.191 235.181 185.56 234.856 185.611 234.082C185.765 231.79 185.95 229.499 186.12 227.207C186.702 219.363 187.264 211.515 187.873 203.673C188.226 199.122 184.905 195.36 180.47 195.373C176.065 195.383 172.749 199.095 173.088 203.607C173.849 213.744 174.603 223.88 175.345 234.017C175.403 234.824 175.742 235.184 176.556 235.168C177.853 235.143 179.15 235.161 180.447 235.161V235.163ZM180.495 241.423C177.099 241.414 174.348 244.137 174.341 247.514C174.333 250.865 177.131 253.662 180.477 253.647C183.851 253.633 186.576 250.876 186.567 247.485C186.558 244.127 183.858 241.431 180.495 241.423Z" fill="#FEBC1A"/>
+    <path d="M178.18 264.999C178.618 264.637 179.14 264.804 179.604 264.845C180.603 264.932 181.625 264.582 182.602 264.999H178.18Z" fill="#FED36A"/>
+    <path d="M221 225.537C220.748 224.829 220.748 224.121 221 223.413V225.537Z" fill="#FED36A"/>
+</svg>

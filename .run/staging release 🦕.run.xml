@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="staging release 🦕" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="--release --flavor staging" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_staging.dart" />
+    <method v="2" />
+  </configuration>
+</component>

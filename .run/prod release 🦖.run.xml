@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="prod release 🦖" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="--release --flavor prod" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_prod.dart" />
+    <method v="2" />
+  </configuration>
+</component>
